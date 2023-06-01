@@ -6,7 +6,7 @@
       "colour": "#1E90FF",
       "difficulty": "easy",
       "lang": "py",
-      "description": "A text-based language game that will keep your users excited!",
+      "description": "Engage your users in a thrilling text-based language game where they must guess a secret word, keeping them captivated and eager for more challenges!",
       "content": "Hangman is a popular gamethat challenges users to search through the dictionary in their brain and guess the hidden word correctly! This is a great beginner friendly project and is quite simple to make! All you will need is a large library of words (as a challenge try keeping these in a seperate text file!) and a robust Python program that can display the word with the gaps as underscores, and the infamous diagram of the stickman being hung as you lose more lives!\n\nCreate a file named `main.py` and create a list full of all the words you know; the more the better! Then, using the `random` module you can pick a random word from the list and show it to the user, remembering to not reveal it! Keep track of the letters the user has guessed correctly and keep track of the lives that remain too. As a challenge, try showing the stickman too via ASCII art! Good luck!"
     },
     {
