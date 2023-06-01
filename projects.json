@@ -3,6 +3,7 @@
      {
       "title": "Hangman",
       "tags": ["python", "textual", "games"],
+      "colour": "#1E90FF",
       "difficulty": "easy",
       "lang": "py",
       "description": "A text-based language game that will keep your users excited!",
@@ -11,6 +12,7 @@
     {
       "title": "Fitness Tracker",
       "tags": ["javascript", "fitness", "health", "exercise"],
+      "colour": "#FF4500",
       "difficulty": "easy",
       "lang": "js",
       "description": "A web-based app that helps users track their fitness activities, set goals, and monitor progress.",
@@ -19,6 +21,7 @@
     {
       "title": "Recipe Finder",
       "tags": ["python", "food", "recipes", "cooking"],
+      "colour": "#F5DEB3",
       "difficulty": "easy",
       "lang": "py",
       "description": "A Python program that can help users discover and explore new recipes based on their preferences and dietary restrictions!",
