@@ -1,23 +1,28 @@
 {
-  "Hangman": {
-    "tags": ["python", "textual", "games"],
-    "difficulty": "easy",
-    "lang": "py",
-    "description": "A text-based language game that will keep your users excited!",
-    "content": "Hangman is a popular gamethat challenges users to search through the dictionary in their brain and guess the hidden word correctly! This is a great beginner friendly project and is quite simple to make! All you will need is a large library of words (as a challenge try keeping these in a seperate text file!) and a robust Python program that can display the word with the gaps as underscores, and the infamous diagram of the stickman being hung as you lose more lives!\n\nCreate a file named `main.py` and create a list full of all the words you know; the more the better! Then, using the `random` module you can pick a random word from the list and show it to the user, remembering to not reveal it! Keep track of the letters the user has guessed correctly and keep track of the lives that remain too. As a challenge, try showing the stickman too via ASCII art! Good luck!"
-  },
-  "Fitness Tracker": {
-    "tags": ["javascript", "fitness", "health", "exercise"],
-    "difficulty": "easy",
-    "lang": "js",
-    "description": "A web-based app that helps users track their fitness activities, set goals, and monitor progress.",
-    "content": "A Fitness Tracker app built with JavaScript can provide users with a comprehensive platform to monitor and track their fitness journey. JavaScript's versatility and wide browser support make it an ideal choice for developing an interactive and responsive user interface. The app can leverage JavaScript frameworks like React or Angular to create reusable components for displaying fitness data, such as workout logs, step count, and heart rate measurements. It can integrate with fitness wearables or mobile sensors to gather real-time data. JavaScript's robust charting libraries can be used to visualize progress and display insights. Additionally, the app can incorporate local storage or backend APIs to store user data securely and provide synchronization across devices. Developing the Fitness Tracker app with JavaScript will empower users to take control of their fitness goals in an engaging and interactive way."
-  },
-  "Recipe Finder": {
-    "tags": ["python", "food", "recipes", "cooking"],
-    "difficulty": "easy",
-    "lang": "py",
-    "description": "A Python program that can help users discover and explore new recipes based on their preferences and dietary restrictions!",
-    "content": "This Python Recipe Finder app will utilize Python's powerful libraries and frameworks to create a user-friendly recipe discovery platform. By leveraging web scraping techniques via `beautifulsoup` or `selenium`, the app can fetch recipes from various cooking websites and store them in a database. Users can search for recipes based on specific ingredients, cooking time, or dietary preferences. The app can employ natural language processing algorithms to analyze recipe descriptions and provide personalized recommendations. Additionally, the app can include features like user reviews, recipe rating system, and the ability to save favorite recipes for future reference. With Python's flexibility and extensive libraries, building the Python Recipe Finder app will be an exciting project for food enthusiasts and aspiring developers alike!"
-  }
+  "projects": [
+     {
+      "title": "Hangman",
+      "tags": ["python", "textual", "games"],
+      "difficulty": "easy",
+      "lang": "py",
+      "description": "A text-based language game that will keep your users excited!",
+      "content": "Hangman is a popular gamethat challenges users to search through the dictionary in their brain and guess the hidden word correctly! This is a great beginner friendly project and is quite simple to make! All you will need is a large library of words (as a challenge try keeping these in a seperate text file!) and a robust Python program that can display the word with the gaps as underscores, and the infamous diagram of the stickman being hung as you lose more lives!\n\nCreate a file named `main.py` and create a list full of all the words you know; the more the better! Then, using the `random` module you can pick a random word from the list and show it to the user, remembering to not reveal it! Keep track of the letters the user has guessed correctly and keep track of the lives that remain too. As a challenge, try showing the stickman too via ASCII art! Good luck!"
+    },
+    {
+      "title": "Fitness Tracker"
+      "tags": ["javascript", "fitness", "health", "exercise"],
+      "difficulty": "easy",
+      "lang": "js",
+      "description": "A web-based app that helps users track their fitness activities, set goals, and monitor progress.",
+      "content": "A Fitness Tracker app built with JavaScript can provide users with a comprehensive platform to monitor and track their fitness journey. JavaScript's versatility and wide browser support make it an ideal choice for developing an interactive and responsive user interface. The app can leverage JavaScript frameworks like React or Angular to create reusable components for displaying fitness data, such as workout logs, step count, and heart rate measurements. It can integrate with fitness wearables or mobile sensors to gather real-time data. JavaScript's robust charting libraries can be used to visualize progress and display insights. Additionally, the app can incorporate local storage or backend APIs to store user data securely and provide synchronization across devices. Developing the Fitness Tracker app with JavaScript will empower users to take control of their fitness goals in an engaging and interactive way."
+    },
+    {
+      "title": "Recipe Finder",
+      "tags": ["python", "food", "recipes", "cooking"],
+      "difficulty": "easy",
+      "lang": "py",
+      "description": "A Python program that can help users discover and explore new recipes based on their preferences and dietary restrictions!",
+      "content": "This Python Recipe Finder app will utilize Python's powerful libraries and frameworks to create a user-friendly recipe discovery platform. By leveraging web scraping techniques via `beautifulsoup` or `selenium`, the app can fetch recipes from various cooking websites and store them in a database. Users can search for recipes based on specific ingredients, cooking time, or dietary preferences. The app can employ natural language processing algorithms to analyze recipe descriptions and provide personalized recommendations. Additionally, the app can include features like user reviews, recipe rating system, and the ability to save favorite recipes for future reference. With Python's flexibility and extensive libraries, building the Python Recipe Finder app will be an exciting project for food enthusiasts and aspiring developers alike!"
+    }
+  ]
 }
