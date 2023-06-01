@@ -22,10 +22,19 @@
       "title": "Recipe Finder",
       "tags": ["python", "food", "recipes", "cooking"],
       "colour": "#F5DEB3",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "lang": "py",
       "description": "A Python program that can help users discover and explore new recipes based on their preferences and dietary restrictions!",
       "content": "This Python Recipe Finder app will utilize Python's powerful libraries and frameworks to create a user-friendly recipe discovery platform. By leveraging web scraping techniques via `beautifulsoup` or `selenium`, the app can fetch recipes from various cooking websites and store them in a database. Users can search for recipes based on specific ingredients, cooking time, or dietary preferences. The app can employ natural language processing algorithms to analyze recipe descriptions and provide personalized recommendations. Additionally, the app can include features like user reviews, recipe rating system, and the ability to save favorite recipes for future reference. With Python's flexibility and extensive libraries, building the Python Recipe Finder app will be an exciting project for food enthusiasts and aspiring developers alike!"
+    },
+    {
+      "title": "Language Learning Assistant",
+      "tags": ["java", "language", "learning", "education"],
+      "colour": "#32CD32",
+      "difficulty": "medium",
+      "lang": "java",
+      "description": "Unlock the world of languages with an immersive Java app, that can empower users to learn through interactive exercises, vocabulary expansion, and comprehensive language practice features.",
+      "content": "This Language Learning Assistant app, that can be developed in Java, can provide users with an immersive language learning experience. Java's object-oriented nature and rich ecosystem make it suitable for building a scalable and feature-rich application. The app can include interactive lessons, vocabulary exercises, and pronunciation practice. Java's multithreading capabilities can be utilized to implement features like speech recognition for evaluating pronunciation or simulating conversations with virtual language partners. The app can also integrate with external language APIs for advanced functionalities like translation or language analysis. Additionally, Java's database connectivity can be employed to store user progress, personalize learning paths, and generate performance analytics. With Java's robustness and versatility, building the Language Learning Assistant app will empower users to embark on a journey of language acquisition and fluency."
     }
   ]
 }
