@@ -155,7 +155,7 @@
     },
     {
       "title": "3D Platformer",
-      "tags" ["c sharp", "unity", "platformer", "gamedev"],
+      "tags": ["c sharp", "unity", "platformer", "gamedev"],
       "colour": "#FFA500",
       "difficulty": "medium",
       "lang": "c#",
