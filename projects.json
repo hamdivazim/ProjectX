@@ -146,7 +146,7 @@
     },
     {
       "title": "Trivia Quiz",
-      "tags": ["c sharp", "trivia", "quiz", "gamedev"],
+      "tags": ["c#", "trivia", "quiz", "gamedev"],
       "colour": "#FFFF00",
       "difficulty": "medium",
       "lang": "c#",
@@ -155,7 +155,7 @@
     },
     {
       "title": "3D Platformer",
-      "tags": ["c sharp", "unity", "platformer", "gamedev"],
+      "tags": ["c#", "unity", "platformer", "gamedev"],
       "colour": "#FFA500",
       "difficulty": "medium",
       "lang": "c#",
@@ -164,7 +164,7 @@
     },
     {
       "title": "Space Simulator",
-      "tags": ["simulation", "space", "game development", "unity", "c sharp"],
+      "tags": ["simulation", "space", "game development", "unity", "c#"],
       "colour": "#0000FF",
       "difficulty": "hard",
       "lang": "C#",
