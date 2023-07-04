@@ -1,8 +1,8 @@
 # ProjectX Library
-Where all project ideas are stored for my upcoming app: ProjectX.
+Where all project ideas are stored for ProjectX.
 
-## What exactly is ProjectX?
-ProjectX is my new app (coming soon) that has a huge library of many different program ideas, ranging from beginner-friendly games, to highly advanced AI projects. This library is stored here!
+## What exactly is this for?
+I want to store the large library of app ideas, all as a single open-source JSON file on the web!
 
 ## Can I contribute?
-Yes! I appreciate any contributions you make to this project! Remember to read the [contributing guidelines](https://github.com/hamdivazim/ProjectX-Library/blob/main/CONTRIBUTING.md)!
+Yes! I appreciate any contributions you make to this project! Remember to read the [contributing guidelines](https://github.com/hamdivazim/ProjectX/blob/main/CONTRIBUTING.md)!
